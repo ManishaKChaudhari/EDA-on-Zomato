@@ -6,23 +6,23 @@ About this dataset:
 The collected data has been stored in the Comma Separated Value file Zomato.csv. 
 Column Description:
 
-url: contains url of restaurant
-address: contains address of restaurant
-name: Name of restaurant
-online_order: whether online_order facility available or not
-book_table: whether table booking facility available or not
-rate: rating of restaurant
-votes: number of total votes by customers
-phone: contact number of restaurant
-location: location in city
-rest_type : Dinind type 
-dish_liked: Most liked dishes in restaurant
-cuisines: cuisines served by restaurant
-approx_cost(for two people): cost for two people
-reviews_list: Ratings and comments on place,food
-menu_item: menu description
-listed_in(type): type
-listed_in(city): city name of restaurant
+1)  url: contains url of restaurant
+2)  address: contains address of restaurant
+3)  name: Name of restaurant
+4)  online_order: whether online_order facility available or not
+5)  book_table: whether table booking facility available or not
+6)  rate: rating of restaurant
+7)  votes: number of total votes by customers
+8)  phone: contact number of restaurant
+9)  location: location in city
+10) rest_type : Dinind type 
+11) dish_liked: Most liked dishes in restaurant
+12) cuisines: cuisines served by restaurant
+13) approx_cost(for two people): cost for two people
+14) reviews_list: Ratings and comments on place,food
+15) menu_item: menu description
+16) listed_in(type): type of restaurant (eg: Pubs and bars, Buffet, Drinks and nightlife etc..)
+17) listed_in(city): city name of restaurant
 
 
 Conclusion: 
